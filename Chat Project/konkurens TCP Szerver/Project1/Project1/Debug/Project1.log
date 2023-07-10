@@ -1,0 +1,4 @@
+﻿  Thread.cpp
+E:\3.1\Hálozat\Chat Project\konkurens TCP Szerver\Project1\Project1\Thread.cpp(23,71): warning C4474: 'printf' : too many arguments passed for format string
+E:\3.1\Hálozat\Chat Project\konkurens TCP Szerver\Project1\Project1\Thread.cpp(23,71): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Project1.vcxproj -> E:\3.1\Hálozat\Chat Project\konkurens TCP Szerver\Project1\Debug\Project1.exe
