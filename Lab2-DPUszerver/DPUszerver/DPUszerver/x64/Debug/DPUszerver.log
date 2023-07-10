@@ -1,0 +1,3 @@
+﻿  DPUszerver.cpp
+E:\3.1\Hálozat\Lab2-DPUszerver\DPUszerver\DPUszerver\DPUszerver.cpp(12,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  DPUszerver.vcxproj -> E:\3.1\Hálozat\Lab2-DPUszerver\DPUszerver\x64\Debug\DPUszerver.exe

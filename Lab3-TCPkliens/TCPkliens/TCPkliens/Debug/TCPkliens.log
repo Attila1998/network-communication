@@ -1,0 +1,3 @@
+﻿  TCPkliens.cpp
+E:\3.1\Hálozat\Lab3-TCPkliens\TCPkliens\TCPkliens\TCPkliens.cpp(12,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  TCPkliens.vcxproj -> E:\3.1\Hálozat\Lab3-TCPkliens\TCPkliens\Debug\TCPkliens.exe
